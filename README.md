@@ -1,1 +1,2 @@
-# A-looooooong-wait-C-105
+# Standard_deviation
+solution for c105
